@@ -1,1 +1,4 @@
 New file b.txt
+
+we change something in our computer and want to send these changes to server we have to push the file from computer repositary to server, so we have to give cmd a command of git push, it will verify username and password.
+secondly, if someone change and these thing are in server so we have to pull from server to computer repositary, we have directly write git pull or 1st git fetch and then git merge
